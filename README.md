@@ -20,14 +20,18 @@ This course will use elemnents of flipped classroom learning. Before each class 
    <br>
    <a href="https://jacobfhsmith.github.io">Jacob:</a> I an Assistant Research Professor of Statistical Science and Political Science. Previously I was a Lecturing Fellow in the Thompson Writing Program here at Duke and before that completed a Ph.D. in Political Science at UNC-Chapel Hill. I enjoy using data and statistics to answer research questions on topics ranging from the electoral effect of <a href="https://libkey.io/libraries/229/articles/56283884/full-text-file?utm_source=api_871"> Cherie Berry's elevator pictures</a> to what it's like to be in the minority party in Congress. I really enjoy mentoring undergraduate student research projects that use data to answer research questions.
    <br><br>
-   <a href="https://github.com/jacobfhsmith/STA101L-Spring2021/blob/main/Meet%20the%20TAs.docx?raw=true"> Here </a> are bios of the TAs and their tips for making the most out of office hours. <br><br>
+   <a href="> Here </a> are bios of the TAs and their tips for making the most out of office hours. <br><br>
    
   
    <b>Office Hours</b> <br>
    Office hours are a great time to ask questions about the problem sets, labs, or anything else related to the class. You can also just stop by to say hi or talk about something cool you saw related to class. <br>
-   Office Hour Times: Jacob has office hours on   <br>
+   Office Hour Times: Jacob has office hours on Monday and Wednesday from 1:30 to 2:20 PM outside Old Chem and (by appointment through Calendly) on Zoom on Tuesdays from 5-6:20 PM.  <br>
    Office Hours for TAs: <br>
-   (Head TA): <br>
-   TA1:  <br>
-   TA2:  <br>
+   Joe Mathews (Head TA): Wednesday, 4-6 PM (In Person) <br>
+   Aeva Jazic: Monday, 5-7 PM (Zoom)  <br>
+   Ben Wallace: Monday, 7-9 PM (Zoom)  <br>
+   Ginny Hagerty: Tuesday, 9:30-11:30 AM (In Person) <br>
+   Simone Nabors: Wednesday, 2-4 PM (Virtual) <br>
+   Joe Ekpenyong: Thursday, 9-11 AM (In Person) <br>
+   Gaurav Sirdeshmukh: Friday, 2-4 PM (In Person) <br>
    <br><br>
