@@ -18,10 +18,10 @@ This course will use elements of flipped classroom learning. Before each class s
    <br><br>
    <b> Teaching Team</b>
    <br>
-   <a href="https://jacobfhsmith.github.io">Jacob:</a> I an Assistant Research Professor of Statistical Science and Political Science. Previously I was a Lecturing Fellow in the Thompson Writing Program here at Duke and before that completed a Ph.D. in Political Science at UNC-Chapel Hill. I enjoy using data and statistics to answer research questions on topics ranging from the electoral effect of <a href="https://libkey.io/libraries/229/articles/56283884/full-text-file?utm_source=api_871"> Cherie Berry's elevator pictures</a> to what it's like to be in the minority party in Congress. I really enjoy mentoring undergraduate student research projects that use data to answer research questions.
+   <a href="https://jacobfhsmith.github.io">Jacob:</a> I an Assistant Research Professor of Statistical Science and Political Science. Previously I was a Lecturing Fellow in the Thompson Writing Program here at Duke and before that completed a Ph.D. in Political Science at UNC-Chapel Hill. I enjoy using data and statistics to answer research questions on topics ranging from the electoral effect of <a href="https://libkey.io/libraries/229/articles/56283884/full-text-file?utm_source=api_871"> Cherie Berry's elevator pictures</a> to what it's like to be in the minority party in Congress. I really enjoy mentoring undergraduate student research projects that use data to answer research questions. <br> <br>
    
    <b>Office Hours</b> <br>
-   Office hours are a great time to ask questions about the problem sets, labs, or anything else related to the class. You can also just stop by to say hi or talk about something cool you saw related to class. <br>
+   Office hours are a great time to ask questions about the problem sets, labs, or anything else related to the class. You can also just stop by to say hi or talk about something cool you saw related to class. <br> <br>
    Office Hour Times: Jacob has office hours on Monday and Wednesday from 1:30 to 2:20 PM outside Old Chem and (by appointment through Calendly) on Zoom on Tuesdays from 5-6:20 PM.  <br>
    Office Hours for TAs: <br>
    Joe Mathews (Head TA): Wednesday, 4-6 PM (In Person) <br>
