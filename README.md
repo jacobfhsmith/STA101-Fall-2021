@@ -28,7 +28,7 @@ This course will use elements of flipped classroom learning. Before each class s
    Aeva Jazic: Monday, 5-7 PM (Zoom)  <br>
    Ben Wallace: Monday, 7-9 PM (Zoom)  <br>
    Ginny Hagerty: Tuesday, 9:30-11:30 AM (In Person) <br>
-   Simone Nabors: Wednesday, 2-4 PM (Virtual) <br>
+   Simone Nabors: Wednesday, 2:30-4:30 PM (Virtual) <br>
    Joe Ekpenyong: Thursday, 9-11 AM (In Person) <br>
    Gaurav Sirdeshmukh: Friday, 2-4 PM (In Person) <br>
    <br><br>
