@@ -11,7 +11,7 @@ Introduction to statistics as a science of understanding and analyzing data. The
   <i>As a quantitative social scientist, I am particularly excited to show you how I use data to answer questions on a variety of topics in political science and public policy. We will also discuss how social scientists and humanists in other fields use data in their research.</i>
    <br><br>
    <b> Coming Due This Week</b> <br>
-The first lab will be coming due on Monday August 30.
+The first lab will be coming due on Monday August 30. The first problem set will be due on Wednesday September 1.
 <br><br>
    <b> Class Meetings </b><br>
 This course will use elements of flipped classroom learning. Before each class session, there will be some readings and video lectures (see “Required Texts” below) to read and watch that focus on core statistical concepts or applications to social science/humanities research. Class sessions will begin with a brief review of concepts and then focus on working through problems together and in groups, answering questions, and discussing practical applications of the statistical concepts for that day. I will take attendance via a sign-in sheet starting after the end of add-drop. You should also enroll in a lab session. These sessions, led by graduate TAs partnered with an undergraduate TA, will provide guidance on how to use the statistical software environment R. It is important to keep up with course material. However, I understand that challenges may arise during the semester, so I urge you to reach out to me if you have any concerns.
