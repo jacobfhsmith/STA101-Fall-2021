@@ -31,6 +31,6 @@ This course will use elements of flipped classroom learning. Before each class s
    Ben Wallace: Monday, 7-9 PM (Zoom)  <br>
    Ginny Hagerty: Tuesday, 9:30 to 11:30 (Zoom) <br>
    Simone Nabors: Wednesday, 2:30-4:30 PM (Zoom) <br>
-   Joe Ekpenyong: Thursday, 9-10 AM (Zoom) and 10-11 AM (In Person) <br>
+   Joe Ekpenyong: Thursday, 9-11 AM (Zoom) <br>
    Gaurav Sirdeshmukh: Friday, 2-4 PM (Zoom) <br>
    <br><br>
