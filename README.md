@@ -26,10 +26,10 @@ This course will use elements of flipped classroom learning. Before each class s
    Office hours are a great time to ask questions about the problem sets, labs, or anything else related to the class. You can also just stop by to say hi or talk about something cool you saw related to class. <br> <br>
    Office Hour Times: Jacob has office hours on Monday and Wednesday from 1:30 to 2:20 PM outside Old Chem and (by appointment through Calendly) on Zoom on Tuesdays from 5-6:20 PM.  <br>
    Office Hours for TAs: <br>
-   Joe Mathews (Head TA): Wednesday, 2-3 PM (In Person), 5-6 PM (Zoom) <br>
+   Joe Mathews (Head TA): Friday, 2-3 PM (In Person, Old Chem 25), Wednesday 5-6 PM (Zoom) <br>
    Aeva Jazic: Monday, 5-7 PM (Zoom)  <br>
    Ben Wallace: Monday, 7-9 PM (Zoom)  <br>
-   Ginny Hagerty: Tuesday, 9:30-10:30 AM (In Person) and 10:35 to 11:30 (Zoom) <br>
+   Ginny Hagerty: Tuesday, 9:30 to 11:30 (Zoom) <br>
    Simone Nabors: Wednesday, 2:30-4:30 PM (Zoom) <br>
    Joe Ekpenyong: Thursday, 9-10 AM (Zoom) and 10-11 AM (In Person) <br>
    Gaurav Sirdeshmukh: Friday, 2-4 PM (Zoom) <br>
